@@ -4,6 +4,8 @@
 <dict>
 	<key>author</key>
 	<string>Chh</string>
+	<key>comment</key>
+	<string>Twilight theme, extended by chh with strong influences from the Zenburn theme.</string>
 	<key>name</key>
 	<string>TwilightExtended</string>
 	<key>settings</key>
