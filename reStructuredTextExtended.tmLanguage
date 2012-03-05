@@ -38,6 +38,12 @@
 			<key>patterns</key>
 			<array>
 				<dict>
+					<key>name</key>
+					<string>markup.list.restructuredtext</string>
+					<key>match</key>
+					<string>(^\s*[\*\-\+]\s+)|(^\s*[0-9a-zA-Z][\.\)]\s+)|(^\s*\([0-9a-zA-Z]\)\s+)</string>
+				</dict>
+				<dict>
 					<key>begin</key>
 					<string>^([ \t]*)((\.\.)\sraw(::)[ ]+html)$</string>
 					<key>captures</key>
