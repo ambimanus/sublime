@@ -927,6 +927,24 @@
 		</dict>
 		<dict>
 		    <key>scope</key>
+		    <string>meta.raw.block.bash.restructuredtext</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+		        <string>#96948A</string>
+		    </dict>
+		</dict>
+		<dict>
+		    <key>scope</key>
+		    <string>meta.raw.block</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+		        <string>#96948A</string>
+		    </dict>
+		</dict>
+		<dict>
+		    <key>scope</key>
 		    <string>markup.raw.restructuredtext</string>
 		    <key>settings</key>
 		    <dict>
