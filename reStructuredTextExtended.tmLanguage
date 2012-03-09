@@ -78,6 +78,39 @@
 				</dict>
 				<dict>
 					<key>begin</key>
+					<string>^([ \t]*)((\.\.)\sraw(::)[ ]+xml)$</string>
+					<key>captures</key>
+					<dict>
+						<key>2</key>
+						<dict>
+							<key>name</key>
+							<string>meta.directive.restructuredtext</string>
+						</dict>
+						<key>3</key>
+						<dict>
+							<key>name</key>
+							<string>punctuation.definition.directive.restructuredtext</string>
+						</dict>
+						<key>4</key>
+						<dict>
+							<key>name</key>
+							<string>punctuation.separator.key-value.restructuredtext</string>
+						</dict>
+					</dict>
+					<key>comment</key>
+					<string>directives.xml</string>
+					<key>end</key>
+					<string>^(?!\1[ \t])</string>
+					<key>patterns</key>
+					<array>
+						<dict>
+							<key>include</key>
+							<string>text.xml</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>begin</key>
 					<string>^([ \t]*)((\.\.)\ssourcecode(::)[ ]+bash)$</string>
 					<key>captures</key>
 					<dict>
