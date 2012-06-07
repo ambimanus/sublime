@@ -22,5 +22,8 @@
 	],
 	"shift_tab_unindent": true,
 	"tab_completion": false,
-	"trim_automatic_white_space": false
+	"trim_automatic_white_space": false,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"highlight_modified_tabs": true
 }
