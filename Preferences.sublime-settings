@@ -13,7 +13,9 @@
 	],
 	"auto_complete_with_fields": false,
 	"color_scheme": "Packages/User/TwilightExtended.tmTheme",
+	// "font_face": "SourceCodePro",
 	"font_size": 10.0,
+	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"remember_open_files": false,
 	"rulers":
@@ -22,8 +24,7 @@
 	],
 	"shift_tab_unindent": true,
 	"tab_completion": false,
-	"trim_automatic_white_space": false,
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"highlight_modified_tabs": true
+	"trim_automatic_white_space": false,
+	"trim_trailing_white_space_on_save": true
 }
