@@ -88,7 +88,8 @@
 	// NOTE: custom builders CANNOT have the same name as an existing
 	// built-in build engine (including "default")
 
-	"builder": "traditional",
+	// "builder": "traditional",
+	"builder": "dummy",
 
 	// OPTION: "builder_path"
 	// If non-empty, specifies a path to a custom builder, relative to the
@@ -99,7 +100,8 @@
 	// console, but things will still work).
 	// Leave empty ("") for a built-in builder.
 
-	"builder_path": "",
+	// "builder_path": "",
+	"builder_path": "User/builders",
 
 	// OPTION: "builder_settings"
 	// Specify builder-dependent settings and preferences
