@@ -1,5 +1,6 @@
 {
 	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -7,6 +8,7 @@
 	[
 		"LaTeXTools",
 		"Package Control",
-		"SublimeLinter"
+		"SublimeLinter",
+		"VBScript"
 	]
 }
