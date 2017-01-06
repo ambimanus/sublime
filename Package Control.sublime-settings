@@ -6,7 +6,6 @@
 	],
 	"installed_packages":
 	[
-		"LaTeXTools",
 		"Package Control",
 		"SublimeLinter",
 		"VBScript"
