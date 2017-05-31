@@ -6,7 +6,12 @@
 	"installed_packages":
 	[
 		"Package Control",
+		"sublime-terraform",
 		"SublimeLinter",
 		"SublimeLinter-flake8"
+	],
+	"repositories":
+	[
+		"https://github.com/tmichel/sublime-terraform"
 	]
 }
