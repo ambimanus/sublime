@@ -5,10 +5,13 @@
 	],
 	"installed_packages":
 	[
+		"AzureResourceManager",
+		"Dockerfile Syntax Highlighting",
 		"Package Control",
-		"sublime-terraform",
+		"Pretty JSON",
 		"SublimeLinter",
-		"SublimeLinter-flake8"
+		"SublimeLinter-flake8",
+		"Terraform"
 	],
 	"repositories":
 	[
