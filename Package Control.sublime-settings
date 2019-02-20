@@ -5,18 +5,12 @@
 	],
 	"installed_packages":
 	[
-		"AzureResourceManager",
 		"Dockerfile Syntax Highlighting",
 		"Log Highlight",
 		"Package Control",
 		"Pretty JSON",
 		"SublimeLinter",
 		"SublimeLinter-flake8",
-		"Sync View Scroll",
-		"Terraform"
-	],
-	"repositories":
-	[
-		"https://github.com/tmichel/sublime-terraform"
+		"Sync View Scroll"
 	]
 }
